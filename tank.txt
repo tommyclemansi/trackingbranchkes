@@ -6,4 +6,10 @@ Class Tank {
         target.getsShotAt();
         --ammunution;
     }
+
+      int drivenMeters = 0;
+    
+    void move(int amountToMoveInMeters) {
+        // TODO: implement
+    }
 }
