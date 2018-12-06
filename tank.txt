@@ -1,6 +1,6 @@
 Class Tank {
     
-    int ammunition = 8;
+    int ammunition = 10;
     
     void shootMainGun(Target target) {
         target.getsShotAt();
